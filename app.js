@@ -1,5 +1,3 @@
-import React, { useState, useEffect } from "react";
-
 const GirlfriendDayWebsite = () => {
   const [currentPage, setCurrentPage] = useState(0);
   const [isPlaying, setIsPlaying] = useState(true);
